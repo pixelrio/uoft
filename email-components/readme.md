@@ -1,4 +1,4 @@
-**Title block**
+# Title block
 ```
 <!-- Featured Event Title : BEGIN -->
                 <tr>
@@ -26,7 +26,7 @@
                 </tr>                
                 <!-- Featured Event Title : END -->
 ```
-**Image block**
+# Image block
 ```
 <!-- Image : BEGIN -->
                 <tr>
@@ -38,7 +38,7 @@
                 </tr>
                 <!-- Image : END -->
 ```
-**1 column text + button**
+# 1 column text + button
 ```
  <!-- 1 Column Text + Button : BEGIN -->
                 <tr>
