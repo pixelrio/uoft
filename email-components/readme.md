@@ -1,4 +1,4 @@
-
+Title block
 ```
 <!-- Featured Event Title : BEGIN -->
                 <tr>
