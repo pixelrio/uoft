@@ -81,3 +81,35 @@ Cost</p>
                 </tr>
                 <!-- 1 Column Text + Button : END -->
 ```
+# CTA Block
+```
+<!-- CTA Block : BEGIN -->
+                <tr>
+                    <td style="background-color: #FFFFFF; padding: 20px;">
+                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="max-width: 640px; background-color: #CCEAF2;">
+                            <tr>
+                                <td style="font-family: sans-serif; font-size: 18px; line-height: 26px; color: #000000; text-align: center;">
+                                    <h2 style="margin: 30px 0 0 0; font-size: 30px; line-height: 34px;font-weight: bold; font-family:'tradegothiclt', sans-serif;">CTA Block</h2>
+                                    <p style="padding: 0 20px;margin: 20px 0;">Duis ut quam venenatis, pharetra augue vel, accumsan nunc.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-bottom: 30px;">
+                                  <!-- Button : BEGIN -->
+                                  <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0">
+                                    <tr>
+                                      <td class="button-td button-td-primary" style="border-radius: 25px; background: #117FA3;">
+                                        <a class="button-a button-a-primary" href="https://example.com" style="background: #117FA3; border: 2px solid #117FA3; font-family: sans-serif; font-size: 14px; line-height: 16px; text-decoration: none; padding: 12px 26px; color: #ffffff; display: block; border-radius: 25px; width: 160px; text-align: center;" width="200">
+                                          <strong>CTA button </strong>
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                  <!-- Button : END -->
+                                </td>
+                              </tr>
+                        </table>
+                    </td>
+                </tr>
+                <!-- Sample CTA Block : END -->
+```
