@@ -81,7 +81,71 @@ Cost</p>
                 </tr>
                 <!-- 1 Column Text + Button : END -->
 ```
-# CTA Block
+# Two column, image left, text right
+```
+<!-- Two column, image left, text right : BEGIN -->
+                <tr>
+                    <td align="center" valign="top" style="font-size:0; padding: 0px 10px 10px; background-color: #ffffff;">
+                        <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="620">
+                        <tr>
+                        <td valign="top" width="310">
+                        <![endif]-->
+                        <div style="display:inline-block; margin: 0 -1px; width:100%; min-width:200px; max-width:310px; vertical-align:top;" class="stack-column">
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td style="padding: 10px;">
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="font-size: 14px; text-align: left;">
+                                            <tr>
+                                                <td>
+                                                    <a href="https://secureca.imodules.com/s/731/form-blank/index.aspx?sid=731&gid=1&pgid=21013&cid=34894&utm_source=DUA&utm_medium=email&utm_campaign=careerwebinar&utm_content=image">
+                                                        <img src="https://placehold.co/290" width="290" height="" border="0" alt="A U of T grad smiling and looking to her left" style="width: 100%; height: auto; background: #D5D5D5; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="center-on-narrow">
+                                                    </a>
+                                                </td>
+                                            </tr>
+
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                        <!--[if mso]>
+                        </td>
+                        <td valign="top" width="310">
+                        <![endif]-->
+                        <div style="display:inline-block; margin: 0 -1px; width:100%; min-width:200px; max-width:310px; vertical-align:top;" class="stack-column">
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td style="padding: 10px;">
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="font-size: 14px;text-align: left;">
+                                            <tr>
+                                                <td dir="ltr" style="font-family: sans-serif; font-size: 18px; line-height: 28px; color: #000000; padding: 0 10px 10px 10px 0; text-align: left;">
+													<p style="margin:5px 0 0; font-family: sans-serif; font-size: 24px; line-height: 30px; font-weight: bold;">Name<br>
+Title</p>
+                                                    <p style="margin: 30px 0 0 0; color: #000000; font-size: 18px; line-height:21px;"><strong>Tuesday, June 27, 2023</strong><br>1-2 p.m. EDT<br>
+Location<br>
+Cost<br>
+<a href="https://example.com" style="text-decoration: underline; color:#007FA3;">CTA text</a></p>
+                                                   
+                                                </td>
+                                            </tr>
+                                                
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                        <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]-->
+                    </td>
+                </tr>
+                <!-- Two column, image left, text right : END -->
+```
+
+# CTA block
 ```
 <!-- CTA Block : BEGIN -->
                 <tr>
