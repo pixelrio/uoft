@@ -177,3 +177,76 @@ Cost<br>
                 </tr>
                 <!-- Sample CTA Block : END -->
 ```
+# Prefooter block
+```
+<!-- Prefooter block : BEGIN -->
+                <tr>
+                    <td align="center" valign="top" style="font-size:0; padding: 10px; background-color: #E5F2F6;">
+                        <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="620">
+                        <tr>
+                        <td valign="top" width="310">
+                        <![endif]-->
+                        <div style="display:inline-block; margin: 0 -1px; width:100%; min-width:200px; max-width:310px; vertical-align:top;" class="stack-column">
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td style="padding: 10px;">
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="font-size: 14px; text-align: left;">
+                                            <tr>
+                                                <td>
+                                                    <a href="https://example.com">
+                                                        <img src="https://placehold.co/290" width="290" height="" border="0" alt="A U of T grad smiling and looking to her left" style="width: 100%; height: auto; background: #D5D5D5; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="center-on-narrow">
+                                                    </a>
+                                                </td>
+                                            </tr>
+
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                        <!--[if mso]>
+                        </td>
+                        <td valign="top" width="310">
+                        <![endif]-->
+                        <div style="display:inline-block; margin: 0 -1px; width:100%; min-width:200px; max-width:310px; vertical-align:top;" class="stack-column">
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td style="padding: 10px;">
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="font-size: 14px;text-align: left;">
+                                            <tr>
+                                                <td dir="ltr" style="font-family: sans-serif; font-size: 18px; line-height: 28px; color: #1E3765; padding: 0 10px 10px 10px 0; text-align: left;">
+                                                    <h2 style="margin: 0; font-family: sans-serif; font-size: 32px; line-height: 36px; font-weight: bold;"><a href="https://example.com" style="color: #1E3765;">Prefooter example</a></h2>
+
+                                                    <p style="margin: 10px 0 10px 0; color: #1E3765;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rhoncus bibendum elit sed facilisis. Sed et sollicitudin turpis, sit amet aliquet urna. Aenean in elementum risus.  </p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                <!-- Button : BEGIN -->
+                                                <table align="left" role="presentation" cellspacing="0" cellpadding="0" border="0" class="mobile-btn">
+                                                    <tr>
+                                                    <td class="button-td button-td-primary button-white" style="border-radius: 25px; background: #FFFFFF;">
+                                                        <a class="button-a button-a-primary button-white" href="https://alumni.utoronto.ca/index.php/benefits/career-development?utm_source=DUA&utm_medium=email&utm_campaign=careerwebinar&utm_content=button" style="background: #FFFFFF;border: 2px solid #000000;font-family: sans-serif;font-size: 14px;line-height: 16px;text-decoration: none;padding: 14px 26px;color: #007fa3;display: block;border-radius: 25px;width: 200px;text-align: center;" width="200">
+                                                        <strong>Secondary CTA</strong>
+                                                        </a>
+                                                    </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- Button : END -->
+                                                </td>
+                                              </tr>        
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                        <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]-->
+                    </td>
+                </tr>
+                <!-- Prefooter block : END -->
+```
