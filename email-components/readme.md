@@ -1,3 +1,8 @@
+# Examples of component usage
+http://engage.utoronto.ca/site/MessageViewer?em_id=10502.0&dlv_id=14441&printer_friendly=1
+http://engage.utoronto.ca/site/MessageViewer?em_id=8281.0&dlv_id=14441&printer_friendly=1
+http://engage.utoronto.ca/site/MessageViewer?em_id=7383.0&dlv_id=14441&printer_friendly=1
+
 # Title block
 ```
 <!-- Featured Event Title : BEGIN -->
