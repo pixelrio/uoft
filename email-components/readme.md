@@ -255,3 +255,24 @@ Cost<br>
                 </tr>
                 <!-- Prefooter block : END -->
 ```
+# Divider
+```
+<!-- Divider : BEGIN -->
+                <tr>
+                    <td style="padding: 0; margin: 0; width: 100%;">
+                        <table style="width: 100%; background: #FFFFFF;" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td style="padding: 10px 20px;">
+                                    <table style="width: 100%; background: #FFFFFF;" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td style="border-bottom: 1px solid #010000; text-align: center; line-height: 1px; font-size: 22px; padding: 0;">&nbsp;</td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+               
+                <!-- Divider : END -->
+```
